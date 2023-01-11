@@ -1,2 +1,2 @@
 # site
-https://kkkyloo.github.io/site/
+https://kkkyloo.github.io/first-site/
